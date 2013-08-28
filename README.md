@@ -4,21 +4,26 @@ This project was a collaborative, open-source effort by a team of five engineers
 
 My Contributions
 ===========
-I took charge of Bill Search, Words Explorer, and some site-wide styling and design. We suffered some setbacks in Bill Search at the last minute -- the federal government blocked us from scraping bill text on the last day of feature development, which lead to a last-minute scramble to replicate basic bill search functionality. We had to scrap a feature that would have let users annotate bills and share their findings with friends on social media. Despite the disappointment about cutting features, it was a great experience and I'm proud of what we produced in two weeks of hacking.
+I took charge of Bill Search, Words Explorer, and some site-wide styling and design. We suffered some setbacks in Bill Search at the last minute -- the federal government blocked us from scraping bill text on the last day of feature development, which led to a last-minute scramble to replicate basic bill search functionality. We had to scrap a feature that would have let users annotate bills and share their findings with friends on social media. Despite the disappointment about cutting features, it was a great experience and I'm proud of what we produced in two weeks of hacking.
 
 I'm especially proud of Words Explorer, which has yielded some interesting insights about the words legislators use. Our app lets users see the top words for a selected legislator, or search to see how often a word or phrase has been used in Congress since 1996. (You can see some of the most surprising facts [here](http://eastbayjake.wordpress.com/2013/08/24/influence-update-word-search/).)
 
 Learn More
 ===========================================
 [Main Repo](https://github.com/ideahaven/influence)
+
 [Group Blog](http://watchdogscode.tumblr.com/)
+
 [My Blog](http://eastbayjake.wordpress.com)
+
 [My Website](http://eastbayjake.com/#projects)
 
 Contact Me
 ===========================
 [Email](mailto:mcguireghs@gmail.com)
+
 [Twitter](http://twitter.com/eastbayjake)
+
 [LinkedIn](http://linkedin.com/in/jakemcguire)
 
 License
