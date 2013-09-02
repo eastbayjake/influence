@@ -75,6 +75,7 @@ Global Package Requirements
  * [Bower](http://bower.io/)
  * [Grunt-CLI](http://gruntjs.com/)
  * yo and angular-generator info the Yeoman Section above
+=======
 
 License and Attribution
 =======================
